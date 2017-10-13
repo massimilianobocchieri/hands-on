@@ -1,7 +1,7 @@
-/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/ElasticSearchOOQueryBuilder/src/main/java/clients/Test.java
-/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/ElasticSearchOOQueryBuilder/src/main/java/api/builder/QueryBuilder.java
-/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/ElasticSearchOOQueryBuilder/src/main/java/api/domain/Match.java
-/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/ElasticSearchOOQueryBuilder/src/main/java/api/domain/Query.java
-/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/ElasticSearchOOQueryBuilder/src/main/java/api/domain/Bool.java
-/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/ElasticSearchOOQueryBuilder/src/main/java/json/JacksonJavaToJsonConverter.java
-/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/ElasticSearchOOQueryBuilder/src/main/java/json/JavaToJsonConverter.java
+/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/hands-on/hands-on/ElasticSearchOOQueryBuilder/src/main/java/api/domain/Query.java
+/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/hands-on/hands-on/ElasticSearchOOQueryBuilder/src/main/java/clients/Test.java
+/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/hands-on/hands-on/ElasticSearchOOQueryBuilder/src/main/java/api/builder/QueryBuilder.java
+/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/hands-on/hands-on/ElasticSearchOOQueryBuilder/src/main/java/api/domain/Bool.java
+/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/hands-on/hands-on/ElasticSearchOOQueryBuilder/src/main/java/json/JacksonJavaToJsonConverter.java
+/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/hands-on/hands-on/ElasticSearchOOQueryBuilder/src/main/java/api/domain/Match.java
+/Users/massimiliano/Custom/Projects/personal/eliminatecodefear.com/MasterProgrammeExamAssignment/hands-on/hands-on/ElasticSearchOOQueryBuilder/src/main/java/json/JavaToJsonConverter.java
