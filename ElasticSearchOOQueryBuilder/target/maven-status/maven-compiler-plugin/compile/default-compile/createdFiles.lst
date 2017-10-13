@@ -1,0 +1,7 @@
+json/JacksonJavaToJsonConverter.class
+api/domain/Query.class
+api/builder/QueryBuilder.class
+api/domain/Bool.class
+clients/Test.class
+json/JavaToJsonConverter.class
+api/domain/Match.class
