@@ -1,4 +1,4 @@
-package com.jobreadyprogrammer.aggregator.processors;
+package com.jobreadyprogrammer.aggregator.common;
 
 public class Utility {
 
